@@ -77,3 +77,7 @@ Must-read papers for knowledge graph entity alignment in recent years.
 * **Relation-Aware Neighborhood Matching Model for Entity Alignment.** Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yingpeng Du. AAAI, 2021.
 * **Guiding cross-lingual entity alignment via adversarial knowledge embedding.** Lin, Xixun, et al. ICDM, 2019.
 * **Weakly-supervised knowledge graph alignment with adversarial learning.** Qu, Meng, Jian Tang, and Yoshua Bengio. ArXiv, 2019.
+* **RE-GCN: Relation Enhanced Graph Convolutional Network for Entity Alignment in Heterogeneous Knowledge Graphs.** Jinzhu Yang, Wei Zhou, Lingwei Wei, Junyu Lin, Jizhong Han, and Songlin Hu. DASFAA, 2020.
+* **SAEA: Self-Attentive Heterogeneous Sequence Learning Model for Entity Alignment.** Jia Chen, Binbin Gu, Zhixu Li, Pengpeng Zhao, An Liu, and Lei Zhao. DASFAA 2020.
+* **A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment.** Zhiwen Xie, Runjie Zhu, Kunsong Zhao, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. COLING, 2020.
+* **Dual Attention Network for Cross-lingual Entity Alignment.** Jian Sun, Yu Zhou, Chengqing Zong. COLING, 2020.
