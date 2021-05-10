@@ -29,11 +29,11 @@ Must-read papers for knowledge graph entity alignment in recent years.
 * **Bootstrapping Entity Alignment with Knowledge Graph Embedding.** Sun, Zequn, et al. IJCAI, 2018.
 * **Co-training embeddings of knowledge graphs and entity descriptions for cross-lingual entity alignment.** Chen, Muhao, et al. IJCAI, 2018.
 * **Entity alignment between knowledge graphs using attribute embeddings.** Trisedya, Bayu Distiawan, Jianzhong Qi, and Rui Zhang. AAAI, 2019.
-* **Multi-view Knowledge Graph Embedding for Entity Alignment. Zhang, Qingheng, et al. IJCAI, 2019.
-* **Improving cross-lingual entity alignment via optimal transport. Pei, Shichao, Lu Yu, and Xiangliang Zhang. IJCAI, 2019.
-* **Semi-supervised entity alignment via knowledge graph embedding with awareness of degree difference. Pei, Shichao, et al. WWW, 2019.
-* **Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs. Zhu, Qiannan, et al. IJCAI, 2019.
-* **Transedge: Translating relation-contextualized embeddings for knowledge graphs. Sun, Zequn, et al. ISWC, 2019.
+* **Multi-view Knowledge Graph Embedding for Entity Alignment.** Zhang, Qingheng, et al. IJCAI, 2019.
+* **Improving cross-lingual entity alignment via optimal transport.** Pei, Shichao, Lu Yu, and Xiangliang Zhang. IJCAI, 2019.
+* **Semi-supervised entity alignment via knowledge graph embedding with awareness of degree difference.** Pei, Shichao, et al. WWW, 2019.
+* **Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs.** Zhu, Qiannan, et al. IJCAI, 2019.
+* **Transedge: Translating relation-contextualized embeddings for knowledge graphs.** Sun, Zequn, et al. ISWC, 2019.
 * **Modeling multi-mapping relations for precise cross-lingual entity alignment.** Shi, Xiaofei, and Yanghua Xiao. EMNLP, 2019.
 * **COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment.** Yang, Kai, et al. AAAI, 2020.
 * **JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment.** Chen, Bo, et al. PAKDD, 2020.
