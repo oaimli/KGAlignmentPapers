@@ -1,4 +1,4 @@
-# KnowledgeGraphAlignmentPapers
+# KGAlignmentPapers
 Must-read papers for knowledge graph entity alignment in recent years
 
 ## Survey papers
