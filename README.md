@@ -25,18 +25,18 @@ Must-read papers for knowledge graph entity alignment in recent years.
 
 * **Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment.** Chen, Muhao, et al. IJCAI, 2017.
 * **Iterative Entity Alignment via Joint Knowledge Embeddings.** Zhu, Hao, et al. IJCAI, 2017.
-			\item Sun, Zequn, Wei Hu, and Chengkai Li. "Cross-lingual entity alignment via joint attribute-preserving embedding." ISWC. 2017.
-			\item Sun, Zequn, et al. "Bootstrapping Entity Alignment with Knowledge Graph Embedding." IJCAI. 2018.
-			\item Chen, Muhao, et al. "Co-training embeddings of knowledge graphs and entity descriptions for cross-lingual entity alignment." IJCAI. 2018.
-			\item Trisedya, Bayu Distiawan, Jianzhong Qi, and Rui Zhang. "Entity alignment between knowledge graphs using attribute embeddings." AAAI. 2019.
-			\item Zhang, Qingheng, et al. "Multi-view Knowledge Graph Embedding for Entity Alignment." IJCAI. 2019.
-			\item Pei, Shichao, Lu Yu, and Xiangliang Zhang. "Improving cross-lingual entity alignment via optimal transport." IJCAI. 2019.
-			\item Pei, Shichao, et al. "Semi-supervised entity alignment via knowledge graph embedding with awareness of degree difference." WWW. 2019.
-			\item Zhu, Qiannan, et al. "Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs." IJCAI. 2019.
-			\item Sun, Zequn, et al. "Transedge: Translating relation-contextualized embeddings for knowledge graphs." ISWC. 2019.
-			\item Shi, Xiaofei, and Yanghua Xiao. "Modeling multi-mapping relations for precise cross-lingual entity alignment." EMNLP. 2019.
-			\item Yang, Kai, et al. "COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment." AAAI. 2020.
-			\item Chen, Bo, et al. "JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment." PAKDD. 2020.
+* **Cross-lingual entity alignment via joint attribute-preserving embedding.** Sun, Zequn, Wei Hu, and Chengkai Li. ISWC, 2017.
+* **Bootstrapping Entity Alignment with Knowledge Graph Embedding.** Sun, Zequn, et al. IJCAI, 2018.
+* **Co-training embeddings of knowledge graphs and entity descriptions for cross-lingual entity alignment.** Chen, Muhao, et al. IJCAI, 2018.
+* **Entity alignment between knowledge graphs using attribute embeddings.** Trisedya, Bayu Distiawan, Jianzhong Qi, and Rui Zhang. AAAI, 2019.
+* **Multi-view Knowledge Graph Embedding for Entity Alignment. Zhang, Qingheng, et al. IJCAI, 2019.
+* **Improving cross-lingual entity alignment via optimal transport. Pei, Shichao, Lu Yu, and Xiangliang Zhang. IJCAI, 2019.
+* **Semi-supervised entity alignment via knowledge graph embedding with awareness of degree difference. Pei, Shichao, et al. WWW, 2019.
+* **Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs. Zhu, Qiannan, et al. IJCAI, 2019.
+* **Transedge: Translating relation-contextualized embeddings for knowledge graphs. Sun, Zequn, et al. ISWC, 2019.
+* **Modeling multi-mapping relations for precise cross-lingual entity alignment.** Shi, Xiaofei, and Yanghua Xiao. EMNLP, 2019.
+* **COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment.** Yang, Kai, et al. AAAI, 2020.
+* **JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment.** Chen, Bo, et al. PAKDD, 2020.
       
 ## GNN-based models
 
