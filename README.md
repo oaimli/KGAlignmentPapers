@@ -3,15 +3,15 @@ Must-read papers for knowledge graph entity alignment in recent years.
 
 ## Preliminaries
 
-* [TransE] **Translating embeddings for modeling multi-relational data.** A. Bordes, N. Usunier, A. Garcia-Duran, J. Weston, and O. Yakhnenko. NIPS 2013.
-* [GCN] **Semi-supervised classification with graph convolutional networks.** T. N. Kipf and M. Welling. ICLR 2017.
-* [GAT] **Graph attention networks.** P. Velickovic, G. Cucurull, A. Casanova, A. Romero, P. Lio, and Y. Bengio. ICLR 2018.
+* [TransE] **Translating embeddings for modeling multi-relational data.** A. Bordes, N. Usunier, A. Garcia-Duran, J. Weston, and O. Yakhnenko. NIPS, 2013.
+* [GCN] **Semi-supervised classification with graph convolutional networks.** T. N. Kipf and M. Welling. ICLR, 2017.
+* [GAT] **Graph attention networks.** P. Velickovic, G. Cucurull, A. Casanova, A. Romero, P. Lio, and Y. Bengio. ICLR, 2018.
 
 ## Surveys
 
-* **OpenEA: A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs.** Zequn Sun. PVLDB 2020.
-	    \item {$\bigtriangleup$ Zhao, Xiang, et al. "An Experimental Study of State-of-the-Art Entity Alignment Approaches." IEEE Transactions on Knowledge and Data Engineering, 2020}
-	    \item {$\bigtriangleup$ Ziheng Zhang, et al. "An Industry Evaluation of Embedding-based Entity Alignment." COLING, 2020.}
+* **OpenEA: A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs.** Zequn Sun. PVLDB, 2020.
+* **An Experimental Study of State-of-the-Art Entity Alignment Approaches.** Xiang Zhao. TKDE, 2020.
+* **An Industry Evaluation of Embedding-based Entity Alignment. Ziheng Zhang.** COLING, 2020.
 
 ## Classical/Traditional models
 
