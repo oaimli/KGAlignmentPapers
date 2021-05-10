@@ -1,5 +1,5 @@
-# KGAlignmentPapers
-Must-read papers for knowledge graph entity alignment in recent years
+# Papers for Knowledge Graph Entity Alignment
+Must-read papers for knowledge graph entity alignment in recent years.
 
 ## Preliminaries
 
