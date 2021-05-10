@@ -40,10 +40,10 @@ Must-read papers for knowledge graph entity alignment in recent years.
       
 ## GNN-based models
 
-\item Wang, Zhichun, et al. "Cross-lingual knowledge graph alignment via graph convolutional networks." EMNLP. 2018.
-		    \item Cao, Yixin, et al. "Multi-Channel Graph Neural Network for Entity Alignment." ACL. 2019.
-		  %  \item Faerman, Evgeniy, et al. "Graph Alignment Networks with Node Matching Scores." NIPS. 2019.
-		    \item Ye, Rui, et al. "A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment." IJCAI. 2019.
+* **Cross-lingual knowledge graph alignment via graph convolutional networks.** Wang, Zhichun, et al. EMNLP, 2018.
+* **Multi-Channel Graph Neural Network for Entity Alignment.** Cao, Yixin, et al. ACL, 2019.
+* **Graph Alignment Networks with Node Matching Scores.** Faerman, Evgeniy, et al. NIPS, 2019.
+* **A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment.** Ye, Rui, et al. IJCAI, 2019.
 		  %  \item Xiong, Fan, and Jianliang Gao. "Entity Alignment for Cross-lingual Knowledge Graph with Graph Convolutional Networks." IJCAI. 2019.
 		    \item Li, Chengjiang, et al. "Semi-supervised entity alignment via joint knowledge embedding model and cross-graph model." EMNLP. 2019.
 		    \item Wu, Yuting, et al. "Jointly learning entity and relation representations for entity alignment." EMNLP. 2019.
@@ -58,8 +58,9 @@ Must-read papers for knowledge graph entity alignment in recent years.
 		  %  \item Fey, Matthias, et al. "Deep graph matching consensus." ICLR. 2020.
 		    \item Wu, Yuting, et al. "Neighborhood Matching Network for Entity Alignment." ACL. 2020.
 		    \item Wong, Chi Man, et al. "Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment." IJCAI. 2020.
-		    \item Chen, Muhao, et al. "Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text." arXiv .2020. \textcolor{red}{Not published.}
+		    \item Chen, Muhao, et al. "Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text." arXiv .2020.
 
+## To be put in the right category
 
 % \item $\bigtriangleup$"Non-translational Alignment for Multi-relational Networks". Shengnan Li, Xin Li, Rui Ye, Mingzhong Wang, Haiping Su, Yingzi Ou. (IJCAI 2018)
         % % This model is named as NTAM. It is a non-translational model, but not based on GNN.
@@ -76,4 +77,4 @@ Must-read papers for knowledge graph entity alignment in recent years.
 % 		\item $\bigtriangleup$ Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier. "Visual Pivoting for (Unsupervised) Entity Alignment". AAAI, 2021.
 % 		\item $\bigtriangleup$ Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yingpeng Du. "Relation-Aware Neighborhood Matching Model for Entity Alignment". AAAI, 2021.
 \item Lin, Xixun, et al. "Guiding cross-lingual entity alignment via adversarial knowledge embedding." ICDM. 2019.
-\item Qu, Meng, Jian Tang, and Yoshua Bengio. "Weakly-supervised knowledge graph alignment with adversarial learning." ICLR. 2019. \textcolor{red}{Not published at ICLR 2019. It was rejected.}
+* **Weakly-supervised knowledge graph alignment with adversarial learning.** Qu, Meng, Jian Tang, and Yoshua Bengio. ArXiv, 2019.
