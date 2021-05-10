@@ -1,2 +1,2 @@
 # KnowledgeAlignmentPapers
-Must-read papers for knowledge graph alignment in recent years
+Must-read papers for knowledge graph entity alignment in recent years
