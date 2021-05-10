@@ -23,8 +23,8 @@ Must-read papers for knowledge graph entity alignment in recent years.
 
 ## Translation-based models
 
-\item Chen, Muhao, et al. "Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment." IJCAI. 2017.
-			\item Zhu, Hao, et al. "Iterative Entity Alignment via Joint Knowledge Embeddings." IJCAI. 2017.
+* **Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment.** Chen, Muhao, et al. IJCAI, 2017.
+* **Iterative Entity Alignment via Joint Knowledge Embeddings.** Zhu, Hao, et al. IJCAI, 2017.
 			\item Sun, Zequn, Wei Hu, and Chengkai Li. "Cross-lingual entity alignment via joint attribute-preserving embedding." ISWC. 2017.
 			\item Sun, Zequn, et al. "Bootstrapping Entity Alignment with Knowledge Graph Embedding." IJCAI. 2018.
 			\item Chen, Muhao, et al. "Co-training embeddings of knowledge graphs and entity descriptions for cross-lingual entity alignment." IJCAI. 2018.
