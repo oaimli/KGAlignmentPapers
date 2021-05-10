@@ -11,7 +11,7 @@ Must-read papers for knowledge graph entity alignment in recent years.
 
 * **OpenEA: A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs.** Zequn Sun. PVLDB, 2020.
 * **An Experimental Study of State-of-the-Art Entity Alignment Approaches.** Xiang Zhao. TKDE, 2020.
-* **An Industry Evaluation of Embedding-based Entity Alignment. Ziheng Zhang.** COLING, 2020.
+* **An Industry Evaluation of Embedding-based Entity Alignment.** Ziheng Zhang. COLING, 2020.
 
 ## Classical/Traditional models
 
