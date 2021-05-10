@@ -57,7 +57,7 @@ Must-read papers for knowledge graph entity alignment in recent years.
 * **Collective Multi-type Entity Alignment Between Knowledge Graphs.** Zhu, Qi, et al. WWW, 2020.
 * **Deep graph matching consensus.** Fey, Matthias, et al. ICLR, 2020.
 * **Neighborhood Matching Network for Entity Alignment.** Wu, Yuting, et al. ACL, 2020.
-* **Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment.** Wong, Chi Man, et al. IJCAI, 2020.
+* **Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment.** Hao Nie, Xianpei Han, Le Sun, Chi Man Wong, Qiang Chen, Suhui Wu, Wei Zhang. IJCAI, 2020.
 * **Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text.** Chen, Muhao, et al. arXiv, 2020.
 
 ## To be put in the right category
@@ -81,3 +81,7 @@ Must-read papers for knowledge graph entity alignment in recent years.
 * **SAEA: Self-Attentive Heterogeneous Sequence Learning Model for Entity Alignment.** Jia Chen, Binbin Gu, Zhixu Li, Pengpeng Zhao, An Liu, and Lei Zhao. DASFAA 2020.
 * **A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment.** Zhiwen Xie, Runjie Zhu, Kunsong Zhao, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. COLING, 2020.
 * **Dual Attention Network for Cross-lingual Entity Alignment.** Jian Sun, Yu Zhou, Chengqing Zong. COLING, 2020.
+* **Relational Reflection Entity Alignment.** Xin Mao, Wenting Wang, Huimin Xu, Yuanbin Wu, Man Lan. CIKM, 2020.
+* **Towards Entity Alignment in the Open World: An Unsupervised Approach.** Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xinyi Li, Minnan Luo, and Qinghua Zheng. DASFAA, 2021.
+* **Cross-lingual Entity Alignment with Incidental Supervision.** Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth. EACL, 2021.
+* **Collective Entity Alignment via Adaptive Features.** Weixin Zeng, Xiang Zhao, Jiuyang Tang, and Xuemin Lin. ICDE, 2020.
