@@ -16,10 +16,10 @@ Must-read papers for knowledge graph entity alignment in recent years.
 
 ## Classical/Traditional models
 
-\item Y. Raimond, C. Sutton, and M. B. Sandler, “Automatic interlinking of music datasets on the semantic web.” in Proceedings of Linking Data on the Web Workshop, 2008.
-		    \item F. Scharffe, F. L. Yanbin, and C. Zhou, “Rdf-ai: an architecture for rdf datasets matching, fusion and interlink,” IJCAI workshop. 2009.
-		    \item J. Volz, C. Bizer, M. Gaedke, and G. Kobilarov, “Discovering and maintaining links on the web of data,” ISWC. 2009.
-		    \item A.-C. N. Ngomo and S. Auer, “Limes: a time-efficient approach for large-scale link discovery on the web of data,” IJCAI. 2011.
+* **Automatic interlinking of music datasets on the semantic web.** Y. Raimond, C. Sutton, and M. B. Sandler. Proceedings of Linking Data on the Web Workshop, 2008.
+* **Rdf-ai: an architecture for rdf datasets matching, fusion and interlink.** F. Scharffe, F. L. Yanbin, and C. Zhou. IJCAI, 2009.
+* **Discovering and maintaining links on the web of data.** J. Volz, C. Bizer, M. Gaedke, and G. Kobilarov. ISWC, 2009.
+* **Limes: a time-efficient approach for large-scale link discovery on the web of data.** A.-C. N. Ngomo and S. Auer. IJCAI, 2011.
 
 ## Translation-based models
 
